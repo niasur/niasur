@@ -77,16 +77,7 @@ Sebagai seorang lulusan Sistem Informasi dengan latar belakang Akuntansi & Keuan
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-<br/>
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/niasur/niasur/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/niasur/niasur/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niasur&theme=dark&background=22272e&border=22272e&stroke=22272e&ring=FE53BB&fire=FE53BB&currStreakLabel=FE53BB" alt="GitHub Streak Stats" />
@@ -94,6 +85,10 @@ Sebagai seorang lulusan Sistem Informasi dengan latar belakang Akuntansi & Keuan
 
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niasur&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niasur&layout=compact&theme=dracula&langs_count=5" height="150" alt="languages graph" />
+</div>
 
 <br/>
 
