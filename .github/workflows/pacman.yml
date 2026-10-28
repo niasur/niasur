@@ -16,8 +16,8 @@ jobs:
         with:
           github_user_name: niasur
           outputs: |
-            dist/pacman-contribution-graph.svg?color_snake=orange&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-            dist/pacman-contribution-graph-dark.svg?color_snake=orange&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/pacman-contribution-graph.svg?game=pacman
+            dist/pacman-contribution-graph-dark.svg?game=pacman&theme=dark
 
       - name: push pacman-contribution-graph to the pacman-output branch
         uses: crazy-max/ghaction-github-pages@v4
