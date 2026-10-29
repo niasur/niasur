@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everyone, I'm Nia Surniati 👋</h1>
+<h1 align="center">Hi Everyone, I'm Nia Surniati 👋🏻</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nia-surniati" target="_blank">
