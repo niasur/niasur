@@ -93,9 +93,9 @@ Sebagai seorang lulusan Sistem Informasi dengan latar belakang Akuntansi & Keuan
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niasur/niasur/pacman-output/github-pacman.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niasur/niasur/pacman-output/github-pacman.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/niasur/niasur/pacman-output/github-pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph-dark.svg?v=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph.svg?v=10">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph.svg?v=10">
 </picture>
 
 ###
