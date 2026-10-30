@@ -84,7 +84,6 @@ Sebagai seorang lulusan Sistem Informasi dengan latar belakang Akuntansi & Keuan
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niasur&show_icons=true&theme=dracula" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=niasur&show_icons=true&theme=dracula&cache_seconds=1800" height="150" alt="stats graph" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niasur&layout=compact&theme=dracula&langs_count=5" height="150" alt="languages graph" />
