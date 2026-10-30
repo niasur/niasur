@@ -85,17 +85,15 @@ Sebagai seorang lulusan Sistem Informasi dengan latar belakang Akuntansi & Keuan
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=niasur&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niasur&layout=compact&theme=dracula&langs_count=5" height="150" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niasur&theme=react-dark" width="100%" alt="Activity Graph" />
 </div>
 
 <br />
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph-dark.svg?v=20">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph.svg?v=20">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph.svg?v=20">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph-dark.svg?v=30">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph.svg?v=30">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph.svg?v=30">
   </picture>
 </div>
