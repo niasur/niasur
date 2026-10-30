@@ -85,7 +85,7 @@ Sebagai seorang lulusan Sistem Informasi dengan latar belakang Akuntansi & Keuan
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niasur&show_icons=true&theme=dracula&cache_seconds=1800" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=niasur&show_icons=true&theme=dracula" height="150" alt="stats graph" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niasur&layout=compact&theme=dracula&langs_count=5" height="150" alt="languages graph" />
 </div>
@@ -94,8 +94,8 @@ Sebagai seorang lulusan Sistem Informasi dengan latar belakang Akuntansi & Keuan
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph-dark.svg?v=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph.svg?v=10">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph.svg?v=10">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph-dark.svg?v=20">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph.svg?v=20">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph.svg?v=20">
   </picture>
 </div>
