@@ -14,24 +14,21 @@
   </a>
 </p>
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=niasur.niasur&"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=niasur.niasur" alt="visitor badge" />
 </div>
 
-###
+<br />
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+### 👩‍💻 About Me
 
-###
-
-###
 <p align="justify">
 Sebagai seorang lulusan Sistem Informasi dengan latar belakang Akuntansi & Keuangan serta alumni MSIB Fullstack Software Development di PT. Produk Zilla Akademi Indonesia (Predikat "Luar Biasa"), saya memiliki spesialisasi dalam Fullstack Web Development, Mobile Development, UI/UX Design. Kemampuan unik ini memungkinkan saya untuk tidak hanya membangun kode dan arsitektur sistem yang handal, tetapi juga memahami alur bisnis, efisiensi operasional, dan kebutuhan riil perusahaan. Fokus utama saya adalah menciptakan produk digital dan solusi teknologi yang seimbang antara fungsionalitas teknis, efisiensi bisnis, dan pengalaman pengguna yang optimal. 
 </p>
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<br />
 
-###
+### 🛠 Languages and Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -52,7 +49,11 @@ Sebagai seorang lulusan Sistem Informasi dengan latar belakang Akuntansi & Keuan
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
   &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   &nbsp;
@@ -71,32 +72,30 @@ Sebagai seorang lulusan Sistem Informasi dengan latar belakang Akuntansi & Keuan
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-<h3 align="left">🔥 My Stats :</h3>
+<br />
+
+### 🔥 My Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niasur&theme=dark&background=22272e&border=22272e&stroke=22272e&ring=FE53BB&fire=FE53BB&currStreakLabel=FE53BB" alt="GitHub Streak Stats" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niasur&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niasur&show_icons=true&theme=dracula&cache_seconds=1800" height="150" alt="stats graph" />
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niasur&layout=compact&theme=dracula&langs_count=5" height="150" alt="languages graph" />
 </div>
 
-<br/>
-<br/>
+<br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph-dark.svg?v=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph.svg?v=10">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph.svg?v=10">
-</picture>
-
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph-dark.svg?v=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph.svg?v=10">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/niasur/niasur/pacman-output/pacman-contribution-graph.svg?v=10">
+  </picture>
+</div>
